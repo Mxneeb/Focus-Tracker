@@ -1,0 +1,16 @@
+# Core computer vision and AI dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+deepface>=0.0.79
+numpy>=1.24.0
+
+# GUI framework
+PyQt6>=6.5.0
+
+# Additional dependencies for DeepFace
+tensorflow>=2.13.0
+pandas>=2.0.0
+pillow>=10.0.0
+
+# Optional: For better performance
+# tensorflow-gpu>=2.13.0  # Uncomment if you have CUDA-compatible GPU

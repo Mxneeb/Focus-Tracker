@@ -1,0 +1,25 @@
+{
+    "camera_id": 0,
+    "loop_delay_seconds": 0.5,
+    "database_path": "data/gamebuddy.db",
+    "log_level": "INFO",
+    "ui_theme": "dark",
+    "widget_position": "top_right",
+    "widget_transparency": 0.8,
+    "metrics": {
+        "attention_weights": {
+            "gaze": 0.4,
+            "time_on_screen": 0.3,
+            "head_pose": 0.2,
+            "engagement": 0.1
+        },
+        "fatigue_weights": {
+            "yawn": 0.3,
+            "perclos": 0.4,
+            "eye_closure": 0.2,
+            "head_droop": 0.1
+        }
+    },
+    "adaptive_coaching_enabled": true,
+    "reward_system_enabled": true
+}
