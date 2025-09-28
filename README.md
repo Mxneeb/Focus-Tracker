@@ -45,11 +45,5 @@ Refer to the `docs/` directory for detailed specifications:
 -   `ui_ux_design.md`
 -   `research_summary_cv.md`
 
-## Contributing
 
-(Details to be added if this becomes an open project)
-
-## License
-
-(License to be determined - likely MIT if open source)
 
